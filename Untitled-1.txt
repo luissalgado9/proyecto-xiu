@@ -1,0 +1,18 @@
+Comandos para trabajar con GIT
+
+Ahorita estas en el repositorio del proyecto.
+
+Cada dia que hagas algun cambio y que "FUNCIONE" lo vas a tener que subir.
+
+En git existes los commits:
+    Es cuando quieres guardar algo en la nube, y tienes que ponerle un nombre
+    Para esto tenemos que hacer
+    git status
+    git add -A
+    
+
+
+
+Existen ramas:
+    -Master -> Principal, tener cuidado esta. es la version chida.
+    -Puedes crear otras ramas.
