@@ -12,6 +12,21 @@ En git existes los commits:
     git commit -m "Descripcion"
     git push origin/rama a donde quieres dar el push
 
+Supongamos que estas en tu rama y agregaste algo que FUNCIONE
+    -git status (para ver los cambios)
+    -git add -A
+    -git commit -m "descripcion del paquete a publicar"
+
+    Hacemos push a la rama para actualizarla
+    -git push origin nombre-de-la-rama
+
+    Hacemos un merge con la Master, para eso debemos pasarnos a la Master
+    -git checkout master
+    -git status
+    -git merge nombre-de-la-rama
+
+    Hacemos un push para ponerlo en github
+    -git push origin master
 
 
 Existen ramas:
