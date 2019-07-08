@@ -2,22 +2,12 @@ Comandos para trabajar con GIT
 
 Ahorita estas en el repositorio del proyecto.
 
-Cada dia que hagas algun cmos que hacer
-    git status
-    mos que hacer
-    git statusambio y que "FUNCIONE" lo vas a tener que subir.
+Cada dia que hagas algun cambio y que "FUNCIONE" lo vas a tener que subir.
 
 En git existes los commits:
     Es cuando quieres guardar algo en la nube, y tienes que ponerle un nombre
     Para esto tenemos que hacer
     git status
-    mos que hacer
-    git status
-    mos que hacer
-    git status
-    mos que hacer
-    git status
-
     git add -A
     git commit -m "Descripcion"
     git push origin/rama a donde quieres dar el push
