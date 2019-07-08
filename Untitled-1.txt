@@ -3,7 +3,7 @@ Comandos para trabajar con GIT
 Ahorita estas en el repositorio del proyecto.
 
 Cada dia que hagas algun cambio y que "FUNCIONE" lo vas a tener que subir.
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 En git existes los commits:
     Es cuando quieres guardar algo en la nube, y tienes que ponerle un nombre
     Para esto tenemos que hacer
