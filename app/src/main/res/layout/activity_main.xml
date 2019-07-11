@@ -9,13 +9,14 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/entrar"
         android:layout_width="117dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="147dp"
         android:background="@drawable/btn_round"
+        android:onClick="entrar"
         android:text="Entrar" />
 
     <EditText
