@@ -44,9 +44,24 @@
                                   </option>
                                   <option name="values">
                                     <map>
+                                      <entry key="assetType" value="IMAGE" />
                                       <entry key="outputName" value="ic_action_correo" />
                                       <entry key="theme" value="CUSTOM" />
                                       <entry key="themeColor" value="6f6f6f" />
+                                    </map>
+                                  </option>
+                                </PersistentState>
+                              </value>
+                            </entry>
+                            <entry key="launcherLegacy">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="iconShape" value="NONE" />
+                                      <entry key="imageAsset" value="C:\Users\Evelin\Downloads\logo_facturapp_mini.png" />
+                                      <entry key="outputName" value="ic_minilogo" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -56,7 +71,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
+                            <entry key="outputIconType" value="LAUNCHER_LEGACY" />
                           </map>
                         </option>
                       </PersistentState>
