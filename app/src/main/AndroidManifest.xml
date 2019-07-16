@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Menu" />
-        <activity android:name=".Menu_cliente"></activity>
+        <activity android:name=".Menu_cliente" />
+        <activity android:name=".Menu_articulo"></activity>
     </application>
 
 </manifest>

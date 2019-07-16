@@ -15,4 +15,7 @@ public class Menu extends AppCompatActivity {
     public void nuevocliente (View view){
         startActivity(new Intent(this,Menu_cliente.class));
     }
+    public void nuevoarticulo (View view){
+        startActivity(new Intent(this,Menu_articulo.class));
+    }
 }

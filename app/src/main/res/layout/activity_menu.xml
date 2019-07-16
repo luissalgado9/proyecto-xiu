@@ -74,6 +74,7 @@
         android:layout_marginTop="409dp"
         android:background="@drawable/factuapp_btn_left_deg"
         android:gravity="right|center_vertical"
+        android:onClick="nuevoarticulo"
         android:paddingRight="10dp"
         android:text="Nuevo artículo"
         android:textSize="12sp" />
