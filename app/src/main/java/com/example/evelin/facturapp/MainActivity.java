@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
     }
     public void entrar (View view){
         startActivity(new Intent(this,Menu.class));
+
+        httpHandler handler = new httpHandler();
+
+        String txt = handler.post("localhost/facturapp/registrar.php");
     }
 }
