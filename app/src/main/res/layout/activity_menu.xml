@@ -58,6 +58,7 @@
         android:layout_marginEnd="10dp"
         android:background="@drawable/factuapp_btn_left_deg"
         android:gravity="right|center_vertical"
+        android:onClick="factura"
         android:paddingRight="10dp"
         android:text="Facturas"
         android:textSize="12sp" />

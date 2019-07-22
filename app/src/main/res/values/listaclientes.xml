@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones_cl">
+        <item>Elige un cliente</item>
+
+        <item>Fulanito</item>
+
+        <item>Sutanito</item>
+
+        <item>Menganito</item>
+    </string-array>
+</resources>

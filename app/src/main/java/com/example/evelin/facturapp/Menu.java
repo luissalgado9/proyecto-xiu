@@ -17,6 +17,7 @@ public class Menu extends AppCompatActivity {
     }
     public void cliente (View view){startActivity(new Intent(this,Cliente.class));}
     public void producto (View view){startActivity(new Intent(this,Producto.class));}
+    public void factura (View view){startActivity(new Intent(this,Factura.class));}
     public void nuevoarticulo (View view){
         startActivity(new Intent(this,Menu_articulo.class));
     }

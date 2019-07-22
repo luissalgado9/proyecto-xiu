@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Elige un artículo</item>
+
+        <item>Papitas</item>
+
+        <item>Refresco</item>
+
+        <item>Salsita</item>
+    </string-array>
+</resources>

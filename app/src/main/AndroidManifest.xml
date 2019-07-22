@@ -20,7 +20,8 @@
         <activity android:name=".Menu_cliente" />
         <activity android:name=".Menu_articulo" />
         <activity android:name=".Cliente" />
-        <activity android:name=".Producto"></activity>
+        <activity android:name=".Producto" />
+        <activity android:name=".Factura"></activity>
     </application>
 
 </manifest>
