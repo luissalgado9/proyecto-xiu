@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Menu" />
         <activity android:name=".Menu_cliente" />
-        <activity android:name=".Menu_articulo"></activity>
+        <activity android:name=".Menu_articulo" />
+        <activity android:name=".Cliente"></activity>
     </application>
 
 </manifest>

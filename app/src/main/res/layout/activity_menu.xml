@@ -60,6 +60,7 @@
         android:layout_marginBottom="0dp"
         android:background="@drawable/factuapp_btn_left_deg"
         android:gravity="right|center_vertical"
+        android:onClick="cliente"
         android:paddingRight="10dp"
         android:text="Clientes"
         android:textSize="12sp" />
