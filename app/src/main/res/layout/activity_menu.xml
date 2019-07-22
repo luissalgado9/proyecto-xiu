@@ -90,6 +90,7 @@
         android:layout_marginBottom="0dp"
         android:background="@drawable/factuapp_btn_left_deg"
         android:gravity="right|center_vertical"
+        android:onClick="producto"
         android:paddingRight="10dp"
         android:text="Artículos"
         android:textSize="12sp" />
