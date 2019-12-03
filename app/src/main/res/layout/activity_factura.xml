@@ -66,4 +66,16 @@
         android:background="@drawable/editxt_round"
         android:popupBackground="@drawable/editxt_round" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="102dp"
+        android:background="@drawable/btn_round"
+        android:onClick="crearFactura"
+        android:text="Crear" />
+
+
 </RelativeLayout>
